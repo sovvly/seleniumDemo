@@ -61,7 +61,7 @@
     <Compile Include="PageObjects\MainPage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tests\AboutUs\aboutTest.cs" />
+    <Compile Include="Tests\AboutT\validAboutPageAfterEntrenceFromMainPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
